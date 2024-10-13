@@ -33,6 +33,7 @@ module.exports = {
         foreground: "hsl(var(--foreground))",
         pg: "var(--pg-back)",
         grayc: "#656565",
+        gayblack: "#494444",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
