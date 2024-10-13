@@ -68,7 +68,7 @@ onMounted(() => {
 </script>
 
 <template>
-    <div class="w-full h-28 flex place-items-center px-16 gap-8">
+    <div class="w-full h-28 flex place-items-center px-8 gap-8">
         <h1 class="font-inter font-[800] text-[24px]">EMARVEL</h1>
         <div ref="cartbadge" class="w-4 h-4 bg-[#b9ddff] absolute rounded-full flex place-items-center justify-center">
           <h1 class="text-[12px] font-bold">3</h1>
